@@ -10,6 +10,6 @@ one above.
 
 ## Javascript
 
-Online demo: 
+Online demo: https://glasgowneuro.github.io/heartrate_plot/
 
 The sources are in `docs`.
