@@ -1,15 +1,15 @@
 #drop_file_zone {
     background-color: #EEE; 
-    border: #999 5px dashed;
-    width: 80%; 
+    border: #999 2px dashed;
     height: 150px;
     padding: 8px;
     font-size: 18px;
-    margin: 200px;
+    margin-top: 200px;
+    margin-bottom: 200px;
 }
 
 #drag_upload_file {
-  width:50%;
+  width:100%;
   margin:0 auto;
 }
 
